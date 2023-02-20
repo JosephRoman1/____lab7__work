@@ -1,0 +1,8 @@
+{
+    "orgName": "Org1",
+    "channelName": "fourthchannel",
+    "chaincodeName" : "basic",
+    "mspOrg" : "Org1MSP",
+    "userId" : "user4"
+
+}
